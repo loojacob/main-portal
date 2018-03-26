@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\PowerWord]
+@="URL:POWERWORD Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\PowerWord\DefaultIcon]
+@="\"C:\\Users\\jacob\\AppData\\Local\\Kingsoft\\Power Word 2016\\2016.3.3.0318\\PowerWord.exe\""
+
+[HKEY_CLASSES_ROOT\PowerWord\shell]
+
+[HKEY_CLASSES_ROOT\PowerWord\shell\open]
+
+[HKEY_CLASSES_ROOT\PowerWord\shell\open\command]
+@="\"C:\\Users\\jacob\\AppData\\Local\\Kingsoft\\Power Word 2016\\2016.3.3.0318\\PowerWord.exe\" \"%1\""
