@@ -3,7 +3,7 @@
  * @author jacob
  *
  */
-public enum EthicCodeTypeVO {
+public enum EthicCodeVO {
     HAN(1, "汉族"), ZHUANG(8, "壮族"), MAN(11, "满族"), HUI(3, "回族"), MIAO(6, "苗族"), 
     UYGUR(5, "维吾尔族"), YI(7, "彝族"), TUJIA(15, "土家族"), MONGOL(2, "蒙古族"), TIBETAN(4,"藏族"), 
     BUYEI(9, "布依族"), DONG(12, "侗族"), YAO(13, "瑶族"), KOREAN(10, "朝鲜族"), BAI(14, "白族"), 
